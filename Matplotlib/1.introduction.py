@@ -5,5 +5,3 @@ valuey = [10,15,22,26,15]
 
 plt.plot(valuex, valuey)
 plt.show()
-
-plt.plot(valuex,valuey, marker=)
