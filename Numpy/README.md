@@ -1,5 +1,6 @@
 # Numpy
 NumPy (Numerical Python) is a fundamental, open-source library in Python primarily used for numerical computing. Its core feature is the ndarray object, which represents a homogeneous, N-dimensional array capable of storing and efficiently manipulating large datasets of the same data type.
+
 ## Key features and uses of NumPy:
 - Multidimensional Arrays (ndarray): NumPy's ndarray is significantly faster and more memory-efficient than standard Python lists for numerical operations, especially with large datasets. This is due to its contiguous memory storage and optimized C implementations.
 - Mathematical Operations: It provides a vast collection of high-level mathematical functions for performing operations on arrays, including element-wise calculations, linear algebra, Fourier transforms, and random number generation.
