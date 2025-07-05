@@ -11,4 +11,4 @@ print("\nPandas series index:\n", series2)
 series3 = pd.Series(new_var)
 
 data_dict = {'a':1,'b':2, 'c':3}
-print(data_dict)
+print(series3,)
